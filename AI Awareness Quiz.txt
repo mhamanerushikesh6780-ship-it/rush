@@ -1,0 +1,111 @@
+Kiran Academy – AI Awareness Quiz 
+
+Section A - AI Companies, Models & Tools
+
+1. Meta
+
+2. Google
+
+3. Anthropic
+
+4. xAI
+
+5. Mistral AI
+
+6. OpenAI
+
+7. AI-generated video
+
+8. Microsoft
+
+9. AI image generation
+
+10. AI-assisted coding
+
+Section B - Generative AI Concepts
+
+11. Large Language Model
+
+12. AI that creates new content
+
+13. Instruction
+
+14. 
+
+15. Multiple data types
+
+16. Fabrication
+
+17. Small units of text
+
+18. Context limit
+
+19. Prediction
+
+20. 
+
+Section C - AI for Developers & Applications
+
+21. AI system that can plan and use tools
+
+22. Autonomy
+
+23. Calling external functions
+
+24. Model Context Protocol
+
+25. Authentication
+
+26. 
+
+27. AI-powered code editor
+
+28. Documents
+
+29. Meaning-based search
+
+30. Coding, debugging, testing
+
+Section D - Image, Video, Speech, Models & Hardware
+
+31. Speech-to-text
+
+32. Text-to-speech
+
+33. Text
+
+34. Image understanding
+
+35. Video generation
+
+36. Text generation
+
+37. Parallel processing
+
+38. Neural Processing Unit
+
+39. 
+
+40. On-device
+
+Section E - Advanced Awareness, Safety & Responsible AI
+
+41. Downloadable model weights
+
+42. Training a smaller model to imitate a larger model
+
+43. Fine-tuning
+
+44. Mixture of Experts
+
+45. 
+
+46. Safety control
+
+47. Malicious prompt attack
+
+48. Personal Identifiable Information
+
+49. Privacy and security risks
+
+50. Trust it if it looks convincing
